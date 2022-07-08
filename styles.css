@@ -519,6 +519,7 @@
     .oportunities-container{
     display: flex;
     flex-direction:column;
+    justify-content:space-around;
 }
 
     .opportunity-1, .opportunity-2,
