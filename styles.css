@@ -121,18 +121,34 @@
     position: relative;
     
 }
-.modal-options h2{
+.modal-options h3{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+.modal-options h2{
+    display: flex;
+    justify-content: center;
+}
+.business h3{
+    color:#5298FF;
+}
+
+.organization h3{
+    color:#5227CC;
+}
+
 .business{
     text-align: center;
+    box-shadow: 6px 5px 1px rgba(0, 0, 0, 0.155);
+    border-radius: 20px;
 }
 
 .organization{
     text-align: center;
+    box-shadow: 6px 5px 1px rgba(0, 0, 0, 0.155);
+    border-radius: 20px;
 }
 
 .goback a{
